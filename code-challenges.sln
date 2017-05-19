@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_MakingAnagramsCs", "002
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003_RansomNoteCpp", "003_RansomNoteCpp\003_RansomNoteCpp.vcxproj", "{40FDE389-1EBE-496A-A8E4-D594247D05D2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_IsBinaryTreeCpp", "004_IsBinaryTreeCpp\004_IsBinaryTreeCpp.vcxproj", "{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,16 @@ Global
 		{40FDE389-1EBE-496A-A8E4-D594247D05D2}.Release|x64.Build.0 = Release|x64
 		{40FDE389-1EBE-496A-A8E4-D594247D05D2}.Release|x86.ActiveCfg = Release|Win32
 		{40FDE389-1EBE-496A-A8E4-D594247D05D2}.Release|x86.Build.0 = Release|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Debug|x64.ActiveCfg = Debug|x64
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Debug|x64.Build.0 = Debug|x64
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Debug|x86.Build.0 = Debug|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Release|x64.ActiveCfg = Release|x64
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Release|x64.Build.0 = Release|x64
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Release|x86.ActiveCfg = Release|Win32
+		{5EFAEE28-E648-4CBA-8BEE-BD143775CCFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
