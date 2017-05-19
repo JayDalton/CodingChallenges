@@ -31,6 +31,7 @@ struct Node {
 /*
 	Floyd’s Cycle-Finding Algorithm
 	tortoise and the hare algorithm
+	Hase-Igel-Algorithmus
 */
 
 bool has_cycle(Node* head) 
