@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_BalancedBracketsCpp", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_FibonacciNumbersCpp", "007_FibonacciNumbersCpp\007_FibonacciNumbersCpp.vcxproj", "{19F09F4E-9D6B-47AD-9A67-CBEA64999060}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_LonleyIntegerCpp", "008_LonleyIntegerCpp\008_LonleyIntegerCpp.vcxproj", "{058D6A36-13CE-4B36-904B-E738CB791DD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,16 @@ Global
 		{19F09F4E-9D6B-47AD-9A67-CBEA64999060}.Release|x64.Build.0 = Release|x64
 		{19F09F4E-9D6B-47AD-9A67-CBEA64999060}.Release|x86.ActiveCfg = Release|Win32
 		{19F09F4E-9D6B-47AD-9A67-CBEA64999060}.Release|x86.Build.0 = Release|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Debug|x64.ActiveCfg = Debug|x64
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Debug|x64.Build.0 = Debug|x64
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Debug|x86.Build.0 = Debug|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x64.ActiveCfg = Release|x64
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x64.Build.0 = Release|x64
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x86.ActiveCfg = Release|Win32
+		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
