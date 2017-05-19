@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_FibonacciNumbersCpp", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_LonleyIntegerCpp", "008_LonleyIntegerCpp\008_LonleyIntegerCpp.vcxproj", "{058D6A36-13CE-4B36-904B-E738CB791DD1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_PrimalityCpp", "009_PrimalityCpp\009_PrimalityCpp.vcxproj", "{7A45C6C8-9362-4989-9545-68F927E1D7E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,16 @@ Global
 		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x64.Build.0 = Release|x64
 		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x86.ActiveCfg = Release|Win32
 		{058D6A36-13CE-4B36-904B-E738CB791DD1}.Release|x86.Build.0 = Release|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Debug|x64.ActiveCfg = Debug|x64
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Debug|x64.Build.0 = Debug|x64
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Debug|x86.Build.0 = Debug|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x64.ActiveCfg = Release|x64
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x64.Build.0 = Release|x64
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x86.ActiveCfg = Release|Win32
+		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
