@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_LonleyIntegerCpp", "008
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_PrimalityCpp", "009_PrimalityCpp\009_PrimalityCpp.vcxproj", "{7A45C6C8-9362-4989-9545-68F927E1D7E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_BubbleSortCpp", "010_BubbleSortCpp\010_BubbleSortCpp.vcxproj", "{A372068E-A9B5-4488-902E-4B7F280C5E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,16 @@ Global
 		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x64.Build.0 = Release|x64
 		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x86.ActiveCfg = Release|Win32
 		{7A45C6C8-9362-4989-9545-68F927E1D7E5}.Release|x86.Build.0 = Release|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Debug|x64.ActiveCfg = Debug|x64
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Debug|x64.Build.0 = Debug|x64
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Debug|x86.Build.0 = Debug|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Release|x64.ActiveCfg = Release|x64
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Release|x64.Build.0 = Release|x64
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Release|x86.ActiveCfg = Release|Win32
+		{A372068E-A9B5-4488-902E-4B7F280C5E9D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
