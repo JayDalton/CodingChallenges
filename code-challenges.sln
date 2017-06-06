@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ArrayLeftRotationCs", "001_ArrayLeftRotationCs\001_ArrayLeftRotationCs.csproj", "{6EFE95CC-3E1D-47B3-BC5C-906684A8FBBD}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_BubbleSortCpp", "010_BubbleSortCpp\010_BubbleSortCpp.vcxproj", "{A372068E-A9B5-4488-902E-4B7F280C5E9D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011_ComparatorSortingCpp", "011_ComparatorSortingCpp\011_ComparatorSortingCpp.vcxproj", "{C055CEAD-0690-4E29-8F8F-AA12E2716142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_FibonacciNumbersCs", "007_FibonacciNumbersCs\007_FibonacciNumbersCs.csproj", "{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +175,18 @@ Global
 		{C055CEAD-0690-4E29-8F8F-AA12E2716142}.Release|x64.Build.0 = Release|x64
 		{C055CEAD-0690-4E29-8F8F-AA12E2716142}.Release|x86.ActiveCfg = Release|Win32
 		{C055CEAD-0690-4E29-8F8F-AA12E2716142}.Release|x86.Build.0 = Release|Win32
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|x64.Build.0 = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Debug|x86.Build.0 = Debug|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|x64.ActiveCfg = Release|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|x64.Build.0 = Release|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|x86.ActiveCfg = Release|Any CPU
+		{69BAC7B1-FFAA-4B6D-BE4C-846AE710B7D9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
