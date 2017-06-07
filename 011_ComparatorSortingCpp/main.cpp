@@ -12,9 +12,30 @@ struct Player {
 	int score;
 };
 
+bool comparePlayer(const Player lhs, const Player rhs) 
+{
+	if (lhs.score < rhs.score)
+	{
+		return false;
+	}
+	else if (lhs.score > rhs.score)
+	{
+		return true;
+	}
+	else
+	{
+		return (lhs.name.compare(rhs.name) < 0) ? true : false;
+	}
+}
+
 vector<Player> comparator(vector<Player> players) 
 {
-	return vector<Player>();
+	sort(players.begin(), players.end(), comparePlayer);
+	//for (auto p : players)
+	//{
+	//	cout << p.name << " " << p.score << endl;
+	//}
+	return players;
 }
 
 int main() 
